@@ -1,8 +1,3 @@
-### Listening on Spotify 🎧
-
-[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="iacta Listening on Spotify" width="350" />](https://open.spotify.com/user/21fkwbsa7why73iwyc35e4zka)
-
-
 ### Connect with me:
 
 [<img align="left" alt="Diogo | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
