@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[<img align="left" alt="iacta | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="iacta | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/#)
 
 <br />
 
