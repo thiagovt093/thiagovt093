@@ -56,7 +56,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,docker,c,cpp,js,gradle,linux,firebase,mongodb,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,docker,next,react,ts,js,gradle,linux,firebase,mongodb,mysql,git" />
   </a>
 </p>
 
